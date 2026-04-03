@@ -2,7 +2,7 @@
 
 ## I am a PhD student at the University of Padua
 
-- 🌱 I’m currently learning **Observational Cosmology, Interstellar Medium, Bayesian Statistics, photometric and spectroscopic techniques applied to Astrophysics**
+- 🌱 I’m currently working on high-redshift galaxies and their properties through the use JWST data. 
 - 🔭 I'm interested in **Galaxy Formation and Evolution, High-redshift galaxies, Active Galactic Nuclei**
 - 📫 How to reach me: **michele.catone@phd.unipd.it**
 
